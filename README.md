@@ -28,24 +28,17 @@
     <ol>
         <li>Clone the repository:</li>
     </ol>
-    <code>
-    git clone https://github.com/yourusername/mortgage-calculator.git
-    cd mortgage-calculator
-    </code>
+    <code>git clone https://github.com/yourusername/mortgage-calculator.git </code>
     
   <ol start="2">
         <li>Install dependencies:</li>
     </ol>
-    <code>
-    npm install
-    </code>
+    <code>npm install </code>
     
    <ol start="3">
         <li>Start the development server:</li>
     </ol>
-    <code>
-    npm start
-    </code>
+    <code> npm run dev </code>
     
   <p>Open your browser and visit <a href="http://localhost:3000">http://localhost:3000</a> to see the application.</p>
     
@@ -57,14 +50,6 @@
     
  
     
-  <h2>Contributing 🤝</h2>
-    <ol>
-        <li>Fork the repository.</li>
-        <li>Create a new branch for your feature: <code>git checkout -b feature-name</code></li>
-        <li>Make your changes and commit them: <code>git commit -m 'Add new feature'</code></li>
-        <li>Push to your fork: <code>git push origin feature-name</code></li>
-        <li>Open a pull request to the main repository.</li>
-    </ol>
     
   <h2>Acknowledgments 🙏</h2>
     <p>Thanks to the open-source community for the tools and libraries used in this project.</p>
