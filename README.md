@@ -28,7 +28,7 @@
     <ol>
         <li>Clone the repository:</li>
     </ol>
-    <code>git clone https://github.com/yourusername/mortgage-calculator.git </code>
+    <code>git clone https://github.com/StarDust130/Mortgage_Calculator.git </code>
     
   <ol start="2">
         <li>Install dependencies:</li>
